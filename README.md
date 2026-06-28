@@ -1,4 +1,4 @@
-# The-Ultimate-Encyptor-Decryptor
+# PyCrypt
 
 ## Description
 A comprehensive utility that allows encryption and decryption through multiple cryptographic algorithms.
